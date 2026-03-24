@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is a broad field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.
+
+Key Concepts:
+1. Machine Learning - algorithms that learn from data
+2. Neural Networks - computing systems inspired by biological brains
+3. Natural Language Processing - enabling computers to understand human language
+4. Computer Vision - helping computers interpret visual information
+
+Applications of AI include virtual assistants, recommendation systems, autonomous vehicles, and medical diagnosis.
+
+This document is a test file for the Research Assistant AI project.

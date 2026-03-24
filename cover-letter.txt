@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineer position at your company. With 5 years of experience in full-stack development using React, Node.js, and TypeScript, I believe I would be a valuable addition to your engineering team.
+
+In my current role at Tech Corp, I have:
+- Led development of 3 major web applications
+- Implemented CI/CD pipelines reducing deployment time by 40%
+- Mentored 4 junior developers
+- Architected microservices handling 1M+ daily requests
+
+I hold a BS in Computer Science from University of Technology and have completed advanced certifications in cloud architecture.
+
+I am particularly excited about your company's focus on AI and machine learning, and I would love to contribute to your innovative projects.
+
+Thank you for your consideration.
+
+Best regards,
+John Doe
