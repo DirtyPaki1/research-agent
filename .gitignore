@@ -1,2 +1,3 @@
 research-agent/.env.local
 .vercel
+.env.local
